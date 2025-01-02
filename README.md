@@ -10,5 +10,5 @@ This is the Front-End Landing Page of a Travel and Adventure Website.
 3. Start the application:
     - listen on the port
 
-## Tech-Stack
+## Tech-Stack Used
   - HTML, CSS, JavaScript, TailwindCSS, Bootstrap5
